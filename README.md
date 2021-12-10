@@ -7,7 +7,8 @@ A simple JavaScript [ToDo List](https://zcmcxm.github.io/zc.langelaw/toDoList/).
 > - check things that are done
 > - uncheck things
 > - delete things to do
-> - temporarily store data into localStorage
+> - sort things to do by name
+> - store data into localStorage
 
 The Todo-List can be found [here](https://zcmcxm.github.io/zc.langelaw/toDoList/).
 
